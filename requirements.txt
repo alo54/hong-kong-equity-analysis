@@ -1,0 +1,9 @@
+pandas
+numpy
+yfinance
+pdfplumber
+matplotlib
+scipy
+statsmodels
+pyarrow
+notebook

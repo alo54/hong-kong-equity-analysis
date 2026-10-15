@@ -1,0 +1,9 @@
+.venv/
+venv/
+__pycache__/
+.ipynb_checkpoints/
+.env
+*.pyc
+hk_market_5y.csv
+hk_market_5y.parquet
+.DS_Store
